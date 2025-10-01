@@ -1,0 +1,20 @@
+--index-url https://download.pytorch.org/whl/cu121
+
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+
+matplotlib==3.8.0
+transformers==4.40.1
+diffusers==0.24.0
+huggingface_hub==0.20.2
+wandb==0.16.6
+accelerate==0.25.0
+scipy==1.13.0
+pandas==2.2.3
+scikit-image==0.23.2
+clip-openai
+scikit-learn==1.4.2
+mne==1.5.1
+open-clip-torch==2.24.0
+einops==0.8.0
