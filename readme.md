@@ -28,7 +28,6 @@ python EEG-preprocessing/preprocessing.py
 
 2.Brain2Image dataset
 
-The preprocessed EEG dataset, along with the training and test images, is available on [GitHub](https://github.com/perceivelab/eeg_visual_classification).
 
 The preprocessed EEG dataset, the training and test images are available on [github](https://github.com/perceivelab/eeg_visual_classification).
 
